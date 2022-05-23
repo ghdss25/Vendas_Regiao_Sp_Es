@@ -76,6 +76,6 @@
 
 ## Apresentação do Dashboards no Power BI - Vendas nas Regiões do Vitória e São Paulo 
 
-
+https://www.youtube.com/watch?v=JwUakz8PhUE
 
 Desenvolvido por Gustavo Henrique de Souza Silva
