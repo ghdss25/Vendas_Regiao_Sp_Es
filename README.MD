@@ -72,7 +72,7 @@
 
 ** Pacote para a criação de Banco de Dados da linguagem Python para o Sqlite3
 
--[Sqlite3](https://cran.r-project.org/web/packages/RSQLite/vignettes/RSQLite.html)
+- [Sqlite3](https://cran.r-project.org/web/packages/RSQLite/vignettes/RSQLite.html)
 
 ## Apresentação do Dashboards no Power BI - Vendas nas Regiões do Vitória e São Paulo 
 
